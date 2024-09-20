@@ -6,3 +6,6 @@
 #### H4
 ##### H5
 ###### H6
+
+Quiero un ron *negrita*
+Este texto esta en _cursiva_
