@@ -22,3 +22,5 @@ Este texto esta en *cursiva* y este también esta en _cursiva_
 + Elemento 3
 
 [enlace web del cole](https://www.fje.edu/ca/jesuites-bellvitge "texto opcional")
+
+![calvito](https://github.com/enricmolero/2425_smx2_a0_repoejemplo/blob/main/calvito.jpg "calvito")
