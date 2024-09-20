@@ -7,5 +7,5 @@
 ##### H5
 ###### H6
 
-Quiero un ron *negrita*
-Este texto esta en _cursiva_
+Quiero un ron **negrita** como este texto que esta en __negrita__
+Este texto esta en *cursiva* y este también esta en _cursiva_
