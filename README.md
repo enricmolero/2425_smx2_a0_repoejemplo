@@ -24,3 +24,16 @@ Este texto esta en *cursiva* y este también esta en _cursiva_
 [enlace web del cole](https://www.fje.edu/ca/jesuites-bellvitge "texto opcional")
 
 ![calvito](https://github.com/enricmolero/2425_smx2_a0_repoejemplo/blob/main/calvito.jpg "calvito")
+
+|Columna 1 |Columna 2 |Columna 3 |
+|------------|:------------:|-------------:|
+|Col 3 es |right-aligned|$1600|
+|Col 2 es |centered|$160|
+|zebra stripes |son limpias|$1|
+
+
+
+
+
+
+
